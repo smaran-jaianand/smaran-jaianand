@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me 
 Computer Science undergraduate at **Symbiosis International University** working on **machine learning systems, robotics, and applied AI**.  
 Focused on building **intelligent autonomous systems, local AI infrastructure, and practical robotics applications**.
 
