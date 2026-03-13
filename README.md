@@ -1,5 +1,56 @@
-# 💫 About Me:
-I'm currently working on machine learning systems , , student studying at Symbiosis International University as a n Computer Science Undergrad ,  open to work <br>i know Python C++ java , 
+## 💫 About Me
+Computer Science undergraduate at **Symbiosis International University** working on **machine learning systems, robotics, and applied AI**.  
+Focused on building **intelligent autonomous systems, local AI infrastructure, and practical robotics applications**.
+
+Open to collaboration, research projects, and system-level engineering work.
+
+---
+
+## Tech Stack
+
+### Languages — Learned
+- Python  
+- C++  
+- Java  
+
+### Machine Learning & AI
+- Machine Learning Systems  
+- Data Analysis  
+- Model Experimentation  
+
+### Systems & Development
+- Linux / WSL  
+- Git & GitHub  
+- API Integration  
+- Local LLM Workflows (Ollama)
+
+---
+
+## Currently Learning
+- Advanced Machine Learning Systems Design  
+- Robotics Navigation Architectures  
+- Telematics Integration for Robots  
+- Flutter (Cross-platform Development)  
+- AI Agent Workflows (n8n + Local Models)
+
+---
+
+## Projects
+### Autonomous Object-Avoiding Robot
+ESP32-based robot with environmental sensors (temperature, humidity, gas detection) and OLED display feedback system.
+
+### Medical AI Assistant (Concept)
+Designing a medical-focused LLM capable of structured emergency procedure guidance for both laypeople and professionals.
+
+---
+
+## Interests
+- Autonomous Robotics  
+- Machine Learning Infrastructure  
+- Local AI Systems  
+- AI for Healthcare
+
+
 
 
 # 💻 Tech Stack:
