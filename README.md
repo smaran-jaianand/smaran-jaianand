@@ -29,7 +29,12 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=smaran-jaianand&hide_border=true&background=00000000&stroke=8b949e&ring=e6edf3&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e"/><img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=smaran-jaianand&hide_border=true&background=00000000&stroke=59636e&ring=1f2328&fire=1f2328&currStreakLabel=1f2328&sideLabels=59636e&currStreakNum=1f2328&sideNums=1f2328&dates=59636e" alt="Streak stats"/></picture>
 
+
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=smaran-jaianand&bg_color=00000000&color=e6edf3&line=e6edf3&point=e6edf3&area_color=e6edf3&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=smaran-jaianand&bg_color=00000000&color=1f2328&line=1f2328&point=1f2328&area_color=1f2328&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" alt="GitHub contribution activity"/></picture>
+
+<br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/smaranj?ext=heatmap&theme=dark&animation=false"/><img width="97%" src="https://leetcard.jacoblin.cool/smaranj?ext=heatmap&theme=light&animation=false" alt="LeetCode heatmap"/></picture>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=smaran-jaianand&label=PROFILE+VIEWS&color=0d1117&style=flat-square" alt="Profile views"/>
 
