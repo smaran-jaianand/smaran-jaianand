@@ -1,0 +1,7 @@
+<svg width="1000" height="130" viewBox="0 0 1000 130" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="0" y1="0" x2="1000" y2="0" stroke="#eaeef2" stroke-width="1.5"/>
+<circle cx="40" cy="40" r="5" fill="#1f2328"/>
+<text x="56" y="45" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="14" fill="#1f2328">STATUS :: shipping - open to AI / data / automation collaborations</text>
+<text x="40" y="90" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13" fill="#59636e">pipelines, agents, and full-stack ML - built to keep running, not just to demo</text>
+<text x="40" y="114" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" fill="#8c959f">exit 0</text>
+</svg>

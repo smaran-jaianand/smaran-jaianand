@@ -1,0 +1,71 @@
+<svg width="1000" height="524" viewBox="0 0 1000 524" fill="none" xmlns="http://www.w3.org/2000/svg">
+<text x="40" y="44" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#8c959f">LANGUAGES</text>
+<rect x="40" y="74" width="77" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="78.5" y="94.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">Python</text>
+<rect x="127" y="74" width="60" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="157.0" y="94.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">Java</text>
+<rect x="197" y="74" width="52" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="223.0" y="94.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">C++</text>
+<rect x="259" y="74" width="36" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="277.0" y="94.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">C</text>
+<rect x="305" y="74" width="110" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="360.0" y="94.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">TypeScript</text>
+<rect x="425" y="74" width="110" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="480.0" y="94.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">JavaScript</text>
+<rect x="545" y="74" width="44" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="567.0" y="94.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">Go</text>
+<rect x="599" y="74" width="60" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="629.0" y="94.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">Rust</text>
+<rect x="669" y="74" width="36" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="687.0" y="94.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">R</text>
+<text x="40" y="138" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#8c959f">WEB / BACKEND</text>
+<rect x="40" y="168" width="85" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="82.5" y="188.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">FastAPI</text>
+<rect x="135" y="168" width="69" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="169.5" y="188.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">Flask</text>
+<rect x="214" y="168" width="69" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="248.5" y="188.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">React</text>
+<rect x="293" y="168" width="69" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="327.5" y="188.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">HTML5</text>
+<rect x="372" y="168" width="60" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="402.0" y="188.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">CSS3</text>
+<rect x="442" y="168" width="77" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="480.5" y="188.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">Vercel</text>
+<text x="40" y="232" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#8c959f">DATA / ML / AUTOMATION</text>
+<rect x="40" y="262" width="85" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="82.5" y="282.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">PyTorch</text>
+<rect x="135" y="262" width="126" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="198.0" y="282.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">scikit-learn</text>
+<rect x="271" y="262" width="118" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="330.0" y="282.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">HuggingFace</text>
+<rect x="399" y="262" width="69" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="433.5" y="282.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">NumPy</text>
+<rect x="478" y="262" width="77" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="516.5" y="282.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">Pandas</text>
+<rect x="565" y="262" width="110" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="620.0" y="282.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">Matplotlib</text>
+<rect x="685" y="262" width="77" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="723.5" y="282.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">OpenCV</text>
+<rect x="772" y="262" width="52" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="798.0" y="282.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">n8n</text>
+<text x="40" y="326" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#8c959f">DATABASES / TOOLS</text>
+<rect x="40" y="356" width="69" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="74.5" y="376.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">MySQL</text>
+<rect x="119" y="356" width="110" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="174.0" y="376.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">PostgreSQL</text>
+<rect x="239" y="356" width="93" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="285.5" y="376.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">Supabase</text>
+<rect x="342" y="356" width="52" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="368.0" y="376.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">Git</text>
+<rect x="404" y="356" width="77" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="442.5" y="376.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">GitHub</text>
+<rect x="491" y="356" width="85" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="533.5" y="376.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">Postman</text>
+<text x="40" y="420" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#8c959f">DESIGN</text>
+<rect x="40" y="450" width="69" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="74.5" y="470.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">Figma</text>
+<rect x="119" y="450" width="69" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="153.5" y="470.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">Canva</text>
+<rect x="198" y="450" width="101" height="30" rx="6" stroke="#d0d7de" stroke-width="1.2"/>
+<text x="248.5" y="470.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13.5" fill="#1f2328">Photoshop</text>
+</svg>

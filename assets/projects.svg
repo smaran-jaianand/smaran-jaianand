@@ -1,0 +1,20 @@
+<svg width="1000" height="366" viewBox="0 0 1000 366" fill="none" xmlns="http://www.w3.org/2000/svg">
+<text x="40" y="34" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="14" fill="#8c959f">$ ls -la ~/projects</text>
+<line x1="40" y1="58" x2="960" y2="58" stroke="#eaeef2" stroke-width="1"/>
+<text x="40" y="84" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#1f2328">wedding-planner-agent/</text>
+<text x="40" y="106" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13" fill="#59636e">n8n workflow routing leads across Ollama, Gemini and Claude; scoring, spam filtering, 13-table PostgreSQL schema</text>
+<text x="40" y="124" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" fill="#8c959f">n8n / LLM routing / PostgreSQL</text>
+<line x1="40" y1="132" x2="960" y2="132" stroke="#eaeef2" stroke-width="1"/>
+<text x="40" y="158" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#1f2328">bank-statement-pipeline/</text>
+<text x="40" y="180" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13" fill="#59636e">HDFC PDF statements to categorized transaction CSVs via a 3-stage NLP classification pipeline</text>
+<text x="40" y="198" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" fill="#8c959f">Python / pdfplumber / DistilBERT</text>
+<line x1="40" y1="206" x2="960" y2="206" stroke="#eaeef2" stroke-width="1"/>
+<text x="40" y="232" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#1f2328">ml-web-app/</text>
+<text x="40" y="254" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13" fill="#59636e">Full-stack ML product, Vite/React front end and FastAPI backend, tuned for serverless limits</text>
+<text x="40" y="272" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" fill="#8c959f">React / Vite / FastAPI / Vercel</text>
+<line x1="40" y1="280" x2="960" y2="280" stroke="#eaeef2" stroke-width="1"/>
+<text x="40" y="306" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="15" font-weight="700" fill="#1f2328">financial-report-pipeline/</text>
+<text x="40" y="328" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13" fill="#59636e">Auto-generates polished, chart-rich financial PDF reports</text>
+<text x="40" y="346" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" fill="#8c959f">ReportLab / Matplotlib / Python</text>
+<line x1="40" y1="354" x2="960" y2="354" stroke="#eaeef2" stroke-width="1"/>
+</svg>

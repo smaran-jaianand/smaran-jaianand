@@ -1,0 +1,9 @@
+<svg width="318" height="298" viewBox="0 0 318 298" fill="none" xmlns="http://www.w3.org/2000/svg">
+<text x="40" y="46" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="16" fill="#e6edf3"><tspan fill="#6e7681">&gt; </tspan>building data pipelines, AI agents, and full-stack ML products</text>
+<text x="40" y="80" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="16" fill="#e6edf3"><tspan fill="#6e7681">&gt; </tspan>shipped a production n8n agent that routes wedding-planning leads</text>
+<text x="60" y="114" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="16" fill="#8b949e"><tspan fill="#6e7681"></tspan>across three LLMs, with spam filtering, scoring, and a 13-table schema</text>
+<text x="40" y="148" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="16" fill="#e6edf3"><tspan fill="#6e7681">&gt; </tspan>turned raw bank-statement PDFs into clean, categorized transaction data</text>
+<text x="60" y="182" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="16" fill="#8b949e"><tspan fill="#6e7681"></tspan>using a local NLP model and a three-stage classification pipeline</text>
+<text x="40" y="216" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="16" fill="#e6edf3"><tspan fill="#6e7681">&gt; </tspan>deployed React + FastAPI ML products around serverless constraints</text>
+<text x="40" y="250" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="16" fill="#e6edf3"><tspan fill="#6e7681">&gt; </tspan>currently studying system design, DBMS internals, and containers</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="1000" height="230" viewBox="0 0 1000 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="1" width="998" height="228" rx="12" ry="12" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="34" cy="34" r="6" fill="#ff5f56"/>
+<circle cx="54" cy="34" r="6" fill="#ffbd2e"/>
+<circle cx="74" cy="34" r="6" fill="#27c93f"/>
+<text x="500" y="39" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="12" letter-spacing="2" fill="#6e7681">smaran@dev :: ~ :: whoami</text>
+<line x1="0" y1="58" x2="1000" y2="58" stroke="#21262d" stroke-width="1"/>
+<text x="60" y="126" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="46" font-weight="700" letter-spacing="1" fill="#e6edf3">SMARAN JAIANAND</text>
+<text x="60" y="160" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="17" fill="#8b949e">data engineering / full-stack development / AI + automation systems</text>
+<line x1="60" y1="184" x2="940" y2="184" stroke="#21262d" stroke-width="1"/>
+<text x="60" y="210" font-family="'JetBrains Mono', ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" font-size="13" fill="#6e7681">building pipelines and agents that keep running after the demo ends</text>
+</svg>
