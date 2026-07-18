@@ -1,40 +1,45 @@
-<div align="center">
+# 💫 About Me 
+Computer Science undergraduate at **Symbiosis International University** working on **machine learning systems, robotics, and applied AI**.  
+Focused on building **intelligent autonomous systems, local AI infrastructure, and practical robotics applications**.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/header.svg"/><img src="assets/header.svg" alt="Smaran Jaianand"/></picture>
+Open to collaboration, research projects, and system-level engineering work.
 
-<a href="https://linkedin.com/in/smaran-jaianand"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LINKEDIN-0d1117?style=flat-square&logo=linkedin&logoColor=ffffff"/><img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/></picture></a>
-<a href="https://github.com/smaran-jaianand"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GITHUB-0d1117?style=flat-square&logo=github&logoColor=ffffff"/><img src="https://img.shields.io/badge/GITHUB-ffffff?style=flat-square&logo=github&logoColor=000000" alt="GitHub"/></picture></a>
-<a href="mailto:your.email@example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/EMAIL-0d1117?style=flat-square&logo=gmail&logoColor=ffffff"/><img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=000000" alt="Email"/></picture></a>
+---
 
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s01.svg"/><img src="assets/s01.svg" alt="01 -- whoami"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/><img src="assets/whoami.svg" alt="About Smaran"/></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s02.svg"/><img src="assets/s02.svg" alt="02 -- system map"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/><img src="assets/ecosystem.svg" alt="Project ecosystem"/></picture>
+---
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s03.svg"/><img src="assets/s03.svg" alt="03 -- projects"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/><img src="assets/projects.svg" alt="Featured projects"/></picture>
+# Currently Learning
+- Advanced Machine Learning Systems Design  
+- Robotics Navigation Architectures  
+- Telematics Integration for Robots  
+- Flutter (Cross-platform Development)  
+- AI Agent Workflows (n8n + Local Models)
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s04.svg"/><img src="assets/s04.svg" alt="04 -- stack"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/><img src="assets/stack.svg" alt="Technical stack"/></picture>
+---
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/s05.svg"/><img src="assets/s05.svg" alt="05 -- telemetry"/></picture>
+# Projects
+### Autonomous Object-Avoiding Robot
+ESP32-based robot with environmental sensors (temperature, humidity, gas detection) and OLED display feedback system.
 
-<div align="center">
+### Medical AI Assistant (Concept)
+Designing a medical-focused LLM capable of structured emergency procedure guidance for both laypeople and professionals.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=smaran-jaianand&show_icons=true&theme=transparent&hide_border=true&text_color=e6edf3&icon_color=8b949e&title_color=e6edf3"/><img width="49%" src="https://github-readme-stats.vercel.app/api?username=smaran-jaianand&show_icons=true&theme=transparent&hide_border=true&text_color=1f2328&icon_color=59636e&title_color=1f2328" alt="GitHub stats"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=smaran-jaianand&layout=compact&theme=transparent&hide_border=true&text_color=e6edf3&title_color=e6edf3"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smaran-jaianand&layout=compact&theme=transparent&hide_border=true&text_color=1f2328&title_color=1f2328" alt="Top languages"/></picture>
+---
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=smaran-jaianand&hide_border=true&background=00000000&stroke=8b949e&ring=e6edf3&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e"/><img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=smaran-jaianand&hide_border=true&background=00000000&stroke=59636e&ring=1f2328&fire=1f2328&currStreakLabel=1f2328&sideLabels=59636e&currStreakNum=1f2328&sideNums=1f2328&dates=59636e" alt="Streak stats"/></picture>
+# Interests
+- Autonomous Robotics  
+- Machine Learning Infrastructure  
+- Local AI Systems  
+- AI for Healthcare
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=smaran-jaianand&bg_color=00000000&color=e6edf3&line=e6edf3&point=e6edf3&area_color=e6edf3&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY"/><img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=smaran-jaianand&bg_color=00000000&color=1f2328&line=1f2328&point=1f2328&area_color=1f2328&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" alt="GitHub contribution activity"/></picture>
 
-<img src="https://komarev.com/ghpvc/?username=smaran-jaianand&label=PROFILE+VIEWS&color=0d1117&style=flat-square" alt="Profile views"/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=smaran-jaianand&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=smaran-jaianand&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/><img src="assets/footer.svg" alt="Current status"/></picture>
-
-<!-- one responsive picture per visual; assets/ = light, assets/dark/ = dark -->
